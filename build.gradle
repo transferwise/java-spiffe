@@ -18,7 +18,7 @@ buildscript {
 
 ext {
     grpcVersion = '1.21.0'
-    nettyVersion = '4.1.33.Final'
+    nettyVersion = '4.1.45.Final'
     protobufProtocVersion = '3.7.1'
     apacheCommonsVersion = '3.8.1'
 }
